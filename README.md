@@ -98,7 +98,3 @@ docker run -p 8000:8000 enterprise-app
 * Swagger UI documentation
 
 ---
-
-## 👨‍💻 Author
-
-Shashikanth 🚀
